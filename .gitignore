@@ -1,0 +1,20 @@
+nbproject
+.buildpath
+.project
+.settings
+.settings/*
+*.json
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Vim
+*~
+*.sw[a-z]
+
+# PhpStorm (IDE) project files
+.idea
