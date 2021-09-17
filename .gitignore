@@ -18,3 +18,5 @@ Thumbs.db
 
 # PhpStorm (IDE) project files
 .idea
+
+__pycache__/

@@ -1,0 +1,10 @@
+autokeras==1.0.16
+dill==0.3.4
+fire==0.4.0
+keras==2.6.0
+keras-nightly==2.5.0.dev2021032900
+keras-tuner==1.0.4
+simplejson==3.17.5
+tensorflow==2.5.0
+tensorflow-estimator==2.5.0
+uvloop==0.16.0
